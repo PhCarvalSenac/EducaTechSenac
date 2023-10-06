@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Digital Society</title>
+  <title>Educa Tech</title>
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" href="icon.png">
 </head>
@@ -24,8 +24,8 @@
   <main class="conteudo">
     <section class="introducao">
       <div class="introducaoescrito">
-        <h1 class="titulo">Digital Society</h1>
-        <h2 class="subtitulo">Bem-vindo ao Digital Society! A tecnologia está transformando muitos setores, como na área da saúde, educação, meio ambiente e indústrias. Aqui, Queremos entender melhor e mostrar o que essas mudanças significam para a sociedade, seja de forma positivo ou negativa.
+        <h1 class="titulo">Educa Tech</h1>
+        <h2 class="subtitulo">Bem-vindo a Educa Tech! A tecnologia não é um bicho de 7 cabeças
         </h2>
     </div>
       <img class="imagemwalle" src="wall-e png.png">

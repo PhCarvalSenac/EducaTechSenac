@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Digital Society</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" href="icon.png">
+</head>
+<body>
+  <header class="cabecalho">
+<a href="index.html" target="_parent"><img class="imagemnavbar" src="logoazulpng.png"></a> 
+    <nav class="navbar">
+      <a class="navbartopicos" href="index.html">Início</a>
+      <a class="navbartopicos" href="ia.html">Inteligência Artificial (I.A.)</a>
+      <a class="navbartopicos" href="saude.html">Saúde</a>
+      <a class="navbartopicos" href="academico.html">Meio Acadêmico</a>
+      <a class="navbartopicos">Meio Ambiente</a>
+      <a class="navbartopicos">Indústria</a>
+    </nav>
+  </header>
+
+  <main class="conteudo">
+    <section class="introducao">
+      <div class="introducaoescrito">
+        <h1 class="titulo">Digital Society</h1>
+        <h2 class="subtitulo">Bem-vindo ao Digital Society! A tecnologia está transformando muitos setores, como na área da saúde, educação, meio ambiente e indústrias. Aqui, Queremos entender melhor e mostrar o que essas mudanças significam para a sociedade, seja de forma positivo ou negativa.
+        </h2>
+    </div>
+      <img class="imagemwalle" src="wall-e png.png">
+    </section>
+
+  </main>
+</body>
+</html>
